@@ -9,7 +9,6 @@ wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rocky
 
 Wordlists adicionales
 wget https://github.com/danielmiessler/SecLists/archive/master.zip
-unzip master.zip
 
 ## Características
 
