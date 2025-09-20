@@ -1,0 +1,23 @@
+{
+  "name": "hash-cracker-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "dev": "vue-cli-service serve --port 8080"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "element-plus": "^2.3.8",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
