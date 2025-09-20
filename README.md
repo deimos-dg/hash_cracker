@@ -1,6 +1,15 @@
 # Hash Cracker Pro
 
 Una herramienta moderna para identificación y cracking de hashes criptográficos, construida con Python Flask backend y Vue.js frontend.
+Se actualizara de manera constante agregando nuevos metodos de hashes, esto con la intencion de facilitar en la participacion de CTF´s
+
+# Es importante tener descargados los siguientes documentos para facilitar el uso del programa:
+rockyou.txt (14 millones de contraseñas)
+wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+
+Wordlists adicionales
+wget https://github.com/danielmiessler/SecLists/archive/master.zip
+unzip master.zip
 
 ## Características
 
